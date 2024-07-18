@@ -7,4 +7,6 @@ Assim como muita gente, eu gosto de brincar com o ChatGPT, mas não gosto de ter
 
 Para criar a chave API: https://platform.openai.com/account/api-keys
 
-Vídeo do YouTube com tutorial: https://www.youtube.com/watch?v=vxajCZOnt0Y&ab_channel=DevRobert
+#### Vídeo do YouTube com tutorial:
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/vxajCZOnt0Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=vxajCZOnt0Y&ab_channel=DevRobert)
+
