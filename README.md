@@ -8,8 +8,7 @@ Assim como muita gente, eu gosto de brincar com o ChatGPT, mas não gosto de ter
 Para criar a chave API: https://platform.openai.com/account/api-keys
 
 #### Vídeo do YouTube com tutorial:
-<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
-     width="400" 
-     height="500" />
+<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" width="50%"  height="50%" />(https://www.youtube.com/watch?v=vxajCZOnt0Y&ab_channel=DevRobert)
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/vxajCZOnt0Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=vxajCZOnt0Y&ab_channel=DevRobert)
 
